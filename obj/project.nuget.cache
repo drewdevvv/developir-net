@@ -1,0 +1,52 @@
+{
+  "version": 2,
+  "dgSpecHash": "MCeueIiMvUwKZynNG+ZeMiyB4q76jTzvm2ltwZc9uy5o6V6HZk/WWL1TO/epWJFANjnGelrws7fWOnN+rJguTQ==",
+  "success": true,
+  "projectFilePath": "/Users/drewponce/RiderProjects/DevelopirNet/Developir.Web/Developir.Web.csproj",
+  "expectedPackageFiles": [
+    "/Users/drewponce/.nuget/packages/advancedstringbuilder/0.1.0/advancedstringbuilder.0.1.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/fluentvalidation/11.5.1/fluentvalidation.11.5.1.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/fluentvalidation.aspnetcore/11.3.0/fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/fluentvalidation.dependencyinjectionextensions/11.5.1/fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.aspnetcore.mvc.razor.extensions/6.0.0/microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.aspnetcore.mvc.razor.runtimecompilation/8.0.0/microsoft.aspnetcore.mvc.razor.runtimecompilation.8.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.aspnetcore.razor.language/6.0.0/microsoft.aspnetcore.razor.language.6.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.aspnetcore.spaservices.extensions/6.0.1/microsoft.aspnetcore.spaservices.extensions.6.0.1.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.codeanalysis.analyzers/3.3.2/microsoft.codeanalysis.analyzers.3.3.2.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.codeanalysis.common/4.0.0/microsoft.codeanalysis.common.4.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.codeanalysis.csharp/4.0.0/microsoft.codeanalysis.csharp.4.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.codeanalysis.razor/6.0.0/microsoft.codeanalysis.razor.6.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/2.1.0/microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.extensions.dependencymodel/8.0.0/microsoft.extensions.dependencymodel.8.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/microsoft.netcore.platforms/2.1.2/microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/restsharp/110.2.0/restsharp.110.2.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/system.reflection.metadata/5.0.0/system.reflection.metadata.5.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/system.text.encoding.codepages/4.5.1/system.text.encoding.codepages.4.5.1.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/system.threading.tasks.extensions/4.5.4/system.threading.tasks.extensions.4.5.4.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/tailwind.extensions.aspnetcore/1.0.0-beta3/tailwind.extensions.aspnetcore.1.0.0-beta3.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/webmarkupmin.aspnet.common/2.14.0/webmarkupmin.aspnet.common.2.14.0.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/webmarkupmin.aspnetcore8/2.15.3/webmarkupmin.aspnetcore8.2.15.3.nupkg.sha512",
+    "/Users/drewponce/.nuget/packages/webmarkupmin.core/2.14.0/webmarkupmin.core.2.14.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1902",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'RestSharp' 110.2.0 has a known moderate severity vulnerability, https://github.com/advisories/GHSA-4rr6-2v9v-wcpc",
+      "libraryId": "RestSharp",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

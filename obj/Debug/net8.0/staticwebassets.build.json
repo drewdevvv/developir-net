@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "1WRfGBmCIQ9EfKxY4T1aThLEmyQAuYtcuUQJzhTypUs=",
+  "Source": "Developir.Web",
+  "BasePath": "_content/Developir.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Developir.Web/wwwroot",
+      "Source": "Developir.Web",
+      "ContentRoot": "/Users/drewponce/RiderProjects/DevelopirNet/Developir.Web/wwwroot/",
+      "BasePath": "_content/Developir.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/drewponce/RiderProjects/DevelopirNet/Developir.Web/wwwroot/css/site.css",
+      "SourceId": "Developir.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/drewponce/RiderProjects/DevelopirNet/Developir.Web/wwwroot/",
+      "BasePath": "_content/Developir.Web",
+      "RelativePath": "css/site.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/drewponce/RiderProjects/DevelopirNet/Developir.Web/wwwroot/js/site.js",
+      "SourceId": "Developir.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/drewponce/RiderProjects/DevelopirNet/Developir.Web/wwwroot/",
+      "BasePath": "_content/Developir.Web",
+      "RelativePath": "js/site.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/js/site.js"
+    }
+  ]
+}

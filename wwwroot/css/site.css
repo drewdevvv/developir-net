@@ -1,0 +1,15 @@
+/* Add any custom styles here */
+.field-validation-error {
+    color: #dc2626;
+    font-size: 0.875rem;
+    margin-top: 0.25rem;
+}
+
+.input-validation-error {
+    border-color: #dc2626;
+}
+
+.validation-summary-errors {
+    color: #dc2626;
+    margin-bottom: 1rem;
+}

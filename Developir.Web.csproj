@@ -1,0 +1,27 @@
+
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Core packages -->
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="8.0.0" />
+    
+    <!-- UI and Components -->
+    <PackageReference Include="Tailwind.Extensions.AspNetCore" Version="1.0.0-beta3" />
+    
+    <!-- Performance -->
+    <PackageReference Include="WebMarkupMin.AspNetCore8" Version="2.15.3" />
+    
+    <!-- Forms and Validation -->
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+    
+    <!-- Email -->
+    <PackageReference Include="RestSharp" Version="110.2.0" />
+  </ItemGroup>
+
+</Project>
